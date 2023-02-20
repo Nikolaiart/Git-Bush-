@@ -1,0 +1,21 @@
+pwd(present working directory) - показывает в какой директории находишься 
+mkdir (make directory) - создает директорию 
+cd (change directory) - поменять директорию 
+ls (list)  - показывает список содержмиого папки где вы находитесь
+ls -l (list) - показывает более подробную информацию 
+mkdir name1/name2 - создать папку в конкретной папке
+ls -la name1 - показать список конкретной папки 
+rm (remove) - удалить 
+rm -r (remove directory)   - удалить дерикторию
+clear - очистить 
+history - показать историю 
+touch- создать файл
+cat > name.txt   - начать заполнять файл ( что бы выйти из режима редакторивониыя  ctrl + c ) 
+cat name.txt - вывести содержимое файла 
+cat >> name.txt  - добавить значения в файл 
+cp name.txt  name/name.txt  - копирование 
+mv name.txt name/name.txt - переместить 
+cd..  выйти из папки 
+mw name.txt name.txt - переименовать файл 
+find . -name 1.txt - найти файл 
+tail -f  запустить файл с обновлением 
