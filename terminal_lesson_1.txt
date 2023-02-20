@@ -1,4 +1,4 @@
-pwd(present working directory) - показывает в какой директории находишься 
+pwd(present working directory) - показывает в какой директории находишься 
 mkdir (make directory) - создает директорию 
 cd (change directory) - поменять директорию 
 ls (list)  - показывает список содержмиого папки где вы находитесь
@@ -19,3 +19,4 @@ cd..  выйти из папки
 mw name.txt name.txt - переименовать файл 
 find . -name 1.txt - найти файл 
 tail -f  запустить файл с обновлением 
+lolol
